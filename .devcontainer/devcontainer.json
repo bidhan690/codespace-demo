@@ -9,11 +9,7 @@
 		// Use -bullseye variants on local arm64/Apple Silicon.
 		"args": { "VARIANT": "16" }
 	},
-  "hostRequirements": {
-    "cpus": 8,
-    "memory": "16gb",
-    "storage": "64gb"
-  },
+  
 	// Set *default* container specific settings.json values on container create.
 	"settings": {},
 
